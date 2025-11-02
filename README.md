@@ -83,6 +83,7 @@ DSA Python/
 ├── 03_tuples.ipynb
 ├── 04_sets.ipynb
 ├── 05_dictionaries.ipynb
+├── 06_list_comprehension.ipynb
 └── README.md
 ```
 
