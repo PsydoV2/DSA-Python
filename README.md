@@ -81,6 +81,7 @@ DSA Python/
 ├── 01_sequences.ipynb
 ├── 02_lists.ipynb
 ├── 03_tuples.ipynb
+├── 04_sets.ipynb
 └── README.md
 ```
 
