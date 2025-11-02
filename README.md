@@ -79,6 +79,8 @@ Then open any `.ipynb` file and start exploring.
 DSA Python/
 │
 ├── 01_sequences.ipynb
+├── 02_lists.ipynb
+├── 03_tuples.ipynb
 └── README.md
 ```
 
