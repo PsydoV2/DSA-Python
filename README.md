@@ -84,6 +84,7 @@ DSA Python/
 ├── 04_sets.ipynb
 ├── 05_dictionaries.ipynb
 ├── 06_list_comprehension.ipynb
+├── 07_stacks.ipynb
 └── README.md
 ```
 
